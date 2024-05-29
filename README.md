@@ -47,4 +47,13 @@
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
   </p>
 
+<h3>📜 Certifications</h3>
+  <p>
+      <a href="#"><img alt="AWS Certified Solutions Architect" src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?logo=amazon-aws&logoColor=white"></a>
+      <a href="#"><img alt="Azure Data Fundamentals" src="https://img.shields.io/badge/Azure-Data%20Fundamentals-0078D4?logo=microsoft-azure&logoColor=white"></a>
+      <a href="#"><img alt="Azure Fundamentals" src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?logo=microsoft-azure&logoColor=white"></a>
+  </p>
+
+---
+
 ---
