@@ -1,6 +1,3 @@
-
-
-# Uday Vempalli
 ### Hi there 👋
 <summary>
   <h2>🛠️ My Favorite Tools</h2>
