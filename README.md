@@ -1,13 +1,10 @@
 
 
 # Uday Vempalli
-
 ### Hi there 👋
-
 <summary>
   <h2>🛠️ My Favorite Tools</h2>
 </summary>
-
 <h3>👩🏻‍💻 Programming and Markup Languages</h3>
   <p>
       <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
