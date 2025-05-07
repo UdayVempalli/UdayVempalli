@@ -32,8 +32,7 @@
   <p>
       <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
       <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?logo=microsoft-azure&logoColor=white"></a>
-      <a href="#"><img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4.svg?logo=google-cloud&logoColor=white"></a>
-  </p>
+        </p>
 
 <h3>💻 Software and Tools</h3>
   <p>
